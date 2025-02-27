@@ -1,4 +1,4 @@
-# SQL-Based Sales & Customer Behavior Analytics
+# End-to-End Retail Data Analysis Using SQL
 
 ## Overview
 
