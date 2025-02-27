@@ -1,4 +1,4 @@
-# SQL - Data Analyst Project
+# SQL-Based Sales & Customer Behavior Analytics
 
 ## Overview
 
